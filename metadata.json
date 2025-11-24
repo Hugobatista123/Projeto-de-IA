@@ -1,0 +1,4 @@
+{
+  "name": "LogicFlow Agent",
+  "description": "An intelligent agent powered by Gemini to translate between Natural Language (Portuguese) and Classical Propositional Logic (CPC)."
+}
