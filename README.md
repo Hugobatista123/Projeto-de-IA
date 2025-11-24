@@ -31,6 +31,7 @@ A arquitetura foi pensada para ser fácil de entender e manter:
 
 ### ⚙️ Fluxo simplificado
 
+<img width="1024" height="1536" alt="fluxo simplificado" src="https://github.com/user-attachments/assets/0cee3c50-fca7-4da3-ae6f-ae66878097e0" />
 
 ---
 
